@@ -1,0 +1,25 @@
+ul {
+    display: table;
+    margin: 0 auto;
+  }
+
+  li {
+      text-align: left;
+  }
+
+  body {
+      background-color: bisque;
+      text-align: center;
+  }
+
+  nav {
+      background-color:floralwhite;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:space-evenly;
+      text-emphasis-color: red;
+  }
+
+  div {
+      justify-content: center;
+  }
